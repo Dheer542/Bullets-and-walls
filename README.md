@@ -1,2 +1,2 @@
-# Bullets-and-walls
-made the collision detection code for bullets and walls
+# p5.play-boilerplate
+Boiler plate for p5.play
